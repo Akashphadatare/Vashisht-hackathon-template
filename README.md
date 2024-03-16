@@ -37,11 +37,7 @@ Trained MLR models for each region, optimizing hyperparameters.
 Evaluation and Validation:
 Evaluated model performance using MAE, RMSE, and R-squared score.
 Conducted validation tests for generalization.
-![Uploading WhatsApp Image 2024-03-16 at 13.24.18_392cccd2.jpg…]()
 
-- explain with images and flowcharts
-- 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
 `nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
