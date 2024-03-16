@@ -2,7 +2,7 @@
     <b>
         <a href="https://www.google.com"> Crop Yield Prediction using MLR </a><br>
     </b>
-    ⭐️____  ⭐️ <br>
+    ⭐️  ⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
@@ -12,29 +12,33 @@ mention the description here , mention what does your prototype does  , make sur
 
 | Name    | Email           |
 |---------|-----------------|
-| CH.HARIKA| person1@gmail.com |
-| B.JOSHNA | person2@gmail.com |
-| SUSHMASARASWATHI | person3@gmail.com |
-| P.AKASH CHANDRAKANTH | person3@gmail.com |
+| CH.HARIKA| harikachalla1430@gmail.com |
+| B.JOSHNA | joshnabadri96@gmail.com |
+| SUSHMASARASWATHI | sushma.gummadadala@gmail.com |
+| P.AKASH CHANDRAKANTH | akashphadatare2003@gmail.com |
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-</div>
+
 
 ## Problem statement 
-In we are using only for the specific region but in the existing process are only taking the whole contry or state as per that the accurace of the model not perfect as compared to our project, we are proposing this solution as it can be more accurate and also it can be for a specific region  , farmers are facing more problems because of previous models as the are taking the country wise the the specific region farmers are following the same and they are getting affected.
+Enhancing Crop Yield Prediction Accuracy Through Region-Specific Models
 ## About the project
-By leveraging historical data, weather patterns, and other relevant variables, the aim is to create a robust and accurate predictive model that can assist farmers and stakeholders in making informed decisions related to crop management, resource allocation, and market planning.
+The primary aim is to develop highly accurate crop yield prediction models tailored to the specific characteristics of individual agricultural regions. By shifting the focus from broad-scale approaches to region-specific models, the goal is to provide farmers with precise forecasts that reflect the nuanced conditions of their local environment. This approach holds the potential to empower farmers with actionable insights for optimizing agricultural practices and improving productivity.
 
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
+Data Collection and Preprocessing:
+Gathered region-specific data on weather, soil, and crop yields.
+Preprocessed data to handle missing values and inconsistencies.
+Model Development:
+Utilized MLR algorithms and ensemble techniques.
+Conducted cross-validation to select the best-performing models.
+Region-Specific Model Training:
+Divided dataset into region-specific subsets.
+Trained MLR models for each region, optimizing hyperparameters.
+Evaluation and Validation:
+Evaluated model performance using MAE, RMSE, and R-squared score.
+Conducted validation tests for generalization.
+![Uploading WhatsApp Image 2024-03-16 at 13.24.18_392cccd2.jpg…]()
+
 - explain with images and flowcharts
 - 
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
