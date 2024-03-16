@@ -30,7 +30,7 @@ Enhancing Crop Yield Prediction Accuracy Through Region-Specific Models
 ## About the project
 The primary aim is to develop highly accurate crop yield prediction models tailored to the specific characteristics of individual agricultural regions. By shifting the focus from broad-scale approaches to region-specific models, the goal is to provide farmers with precise forecasts that reflect the nuanced conditions of their local environment. This approach holds the potential to empower farmers with actionable insights for optimizing agricultural practices and improving productivity.
 
-## Technical implemntaion 
+## Technical implementation 
 Data Collection and Preprocessing:
 Gathered region-specific data on weather, soil, and crop yields.
 Preprocessed data to handle missing values and inconsistencies.
