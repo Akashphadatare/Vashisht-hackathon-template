@@ -5,8 +5,14 @@
     ⭐️  ⭐️ <br>
 </h1>
 
-# [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
-mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
+# [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+Our prototype develops region-specific machine learning regression (MLR) models for predicting crop yields, addressing the limitations of generalized models. It utilizes a dataset with region-specific data on weather, soil, and crops.
+Prototype Functionality:
+Region-Specific Model Development: Trains MLR models tailored to each region, capturing local environmental and agricultural factors.
+Prediction Accuracy Enhancement: Improves accuracy by focusing on specific regions, providing precise forecasts aligned with local conditions.
+User-Friendly Interface: Offers an intuitive interface for farmers to input data and obtain accurate yield predictions.
+Integration with Agricultural Systems: Seamlessly integrates with existing systems, enabling farmers to optimize practices based on region-specific insights.
+
 ## Team Details
 `Team number` : VH018
 
@@ -40,18 +46,26 @@ Conducted validation tests for generalization.
 
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+ `multilinearregression`
 
 ## How to run locally 
 explain detailed steps to run your project locally , example to run a react application 
-- step 1 : clone the repo 
+- step 1 : Import necessary packets
 ```
-npm install
-npm start
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 ```
+- step-2 : download the datasets and upload it in colab
+- step-3 : Run the code
+  
 
 # What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
+Future Plans for the Project:
+Model Optimization: Continuously refine MLR models for better accuracy.
+Data Integration: Include satellite imagery and market trends for richer insights.
+Advanced Features: Predictive analytics for pests, diseases, and optimal planting.
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
