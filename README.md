@@ -1,20 +1,21 @@
-<h1 align="center" style="border-bottom: none">
+![image](https://github.com/Akashphadatare/Vashisht-hackathon-template/assets/163570374/0659fdb3-31a7-4765-93ab-a52f87a8f1e8)<h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="https://www.google.com"> Crop Yield Prediction using MLR </a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️____  ⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
 mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
-`Team number` : VH000
+`Team number` : VH018
 
 | Name    | Email           |
 |---------|-----------------|
-| person1 | person1@gmail.com |
-| person2 | person2@gmail.com |
-| person3 | person3@gmail.com |
+| CH.HARIKA| person1@gmail.com |
+| B.JOSHNA | person2@gmail.com |
+| SUSHMASARASWATHI | person3@gmail.com |
+| P.AKASH CHANDRAKANTH | person3@gmail.com |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
@@ -26,9 +27,9 @@ mention the description here , mention what does your prototype does  , make sur
 </div>
 
 ## Problem statement 
-mention the problem , and mention the severity of the problem and why we need solution for that  , mention which gorup of people face that problem
+In we are using only for the specific region but in the existing process are only taking the whole contry or state as per that the accurace of the model not perfect as compared to our project, we are proposing this solution as it can be more accurate and also it can be for a specific region  , farmers are facing more problems because of previous models as the are taking the country wise the the specific region farmers are following the same and they are getting affected.
 ## About the project
-mention few details and features of the project , how it is solving the problem 
+By leveraging historical data, weather patterns, and other relevant variables, the aim is to create a robust and accurate predictive model that can assist farmers and stakeholders in making informed decisions related to crop management, resource allocation, and market planning.
 
 ## Technical implemntaion 
 mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
