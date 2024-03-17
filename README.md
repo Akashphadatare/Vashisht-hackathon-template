@@ -5,7 +5,7 @@
     ⭐️  ⭐️ <br>
 </h1>
 
-# [` video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+# [` video link `](http://www.google.com) 
 https://drive.google.com/drive/folders/1w5BlFm1Xu_fiXc3AO2vcNAmwKMWCo6z4
 
 - Our prototype develops region-specific machine learning regression (MLR) models for predicting crop yields, addressing the limitations of generalized models. It utilizes a dataset with region-specific data on weather, soil, and crops.
