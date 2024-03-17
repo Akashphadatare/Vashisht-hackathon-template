@@ -49,16 +49,27 @@ Conducted validation tests for generalization.
  `multilinearregression`
 
 ## How to run locally 
-explain detailed steps to run your project locally , example to run a react application 
-- step 1 : Import necessary packets
-```
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-- step-2 : download the datasets and upload it in colab
-- step-3 : Run the code
+- Step 1: Clone the Repository
+git clone <repository_url>
+
+Step 2: Navigate to the Project Directory
+cd <project_directory>
+Navigate into the directory where you cloned the repository.
+
+Step 3: Install Dependencies
+npm install
+This command will install all the dependencies required for your React application. Make sure you have Node.js and npm installed on your machine.
+
+Step 4: Start the Development Server
+npm start
+This command will start the development server for your React application. It will compile your code, launch a local server
+
+Step 5: Access Your Application
+
+Step 6: Make Changes and Experiment
+
+Step 7: Stop the Development Server
+To stop the development server, you can simply press Ctrl + C in the terminal where it's running. This will halt the server and stop your React application from running locally.
   
 
 # What's next ?
